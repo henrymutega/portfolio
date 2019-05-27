@@ -81,3 +81,11 @@ h2
   margin-right: 50px;
   margin-top: 50px;
 }
+.low a
+{
+  display: block;
+}
+.low a:hover
+{
+  color: green;
+}
