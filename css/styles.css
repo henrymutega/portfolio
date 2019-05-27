@@ -126,3 +126,11 @@ h2
 	margin-top: 0px;
   margin-left: 300px;
 }
+.her li a
+{
+	color: darkred;
+	text-decoration: none;
+	padding: 50px;
+	font-family: "Roboto", sans-serif;
+	font-size: 25px;
+}
