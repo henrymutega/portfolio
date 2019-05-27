@@ -134,3 +134,12 @@ h2
 	font-family: "Roboto", sans-serif;
 	font-size: 25px;
 }
+.her li
+{
+	display: inline-block;
+}
+
+.her li a:hover
+{
+	color: currentColor;
+}
