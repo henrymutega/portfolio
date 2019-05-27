@@ -96,3 +96,11 @@ h2
   margin-top: 50px;
   margin-bottom: 50px;
 }
+.me h4
+{
+  font-size: 20px;
+}
+.me li
+{
+  font-size: auto;
+}
