@@ -75,3 +75,9 @@ h2
 	border: 1px solid white;
 	color: currentColor;
 }
+.low
+{
+  float: right;
+  margin-right: 50px;
+  margin-top: 50px;
+}
