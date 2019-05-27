@@ -1,3 +1,41 @@
+*
+{
+  margin: 0px;
+  padding: 1px;
+}
+header
+{
+  background-color: lightblue;
+  height: 150vh;
+  background-position: center;
+  background-size: auto;
+}
+
+h1
+{
+  font-size: 50px;
+  font-style: bold;
+  color: blue;
+  text-decoration: none;
+  text-align: center;
+  margin-top: 120px;
+}
+h2
+{
+  font-size: 20px;
+  font-style: italic;
+  color: darkred;
+  text-decoration: none;
+  text-align: center;
+}
+.one
+{
+  font-size: 20px;
+  text-align: center;
+  margin-top: 50px;
+  line-height: 30px;
+}
+
 .main-nav
 {
   float: right;
