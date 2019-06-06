@@ -6,7 +6,7 @@
 header
 {
   background-color: lightblue;
-  height: 150vh;
+  height: 350vh;
   background-position: center;
   background-size: auto;
 }
@@ -17,16 +17,21 @@ h1
   font-style: bold;
   color: blue;
   text-decoration: none;
-  text-align: center;
-  margin-top: 120px;
+  margin-left: 20px;
+  margin-top: 90px;
 }
 h2
 {
-  font-size: 20px;
+  font-size: 30px;
   font-style: italic;
   color: darkred;
   text-decoration: none;
-  text-align: center;
+  margin-left: 50px;
+}
+.rowe{
+  margin-left: 300px;
+  margin-top: 80px;
+
 }
 .one
 {
